@@ -1,10 +1,7 @@
 # Media sources/licensing
 
-
-
 ## CC0
 
----
 Made by me, Chris Mills-Price 
 
 * bullet_1.png
