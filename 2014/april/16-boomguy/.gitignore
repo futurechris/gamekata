@@ -1,3 +1,4 @@
 .DS_Store
 npm-debug.log
-phaser.min.js
+*.sublime-project
+*.sublime-workspace
