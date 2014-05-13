@@ -1,0 +1,12 @@
+{
+  "name": "Angry Missiles",
+  "version": "0.0.0",
+  "description": "I think you can figure it out. :)",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy game.js:bundle.js --live"
+  },
+  "author": "Chris Mills-Price",
+  "license": "ISC"
+}
