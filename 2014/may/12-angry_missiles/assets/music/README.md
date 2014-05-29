@@ -2,7 +2,7 @@
 
 ## CC0
 
-**OpenGameArt.org: "Lo-fi chiptune glitch D'n'B"
+**OpenGameArt.org: "Lo-fi chiptune glitch D'n'B"**
 
 by gichco ( http://opengameart.org/users/gichco )
 
